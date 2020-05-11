@@ -1,5 +1,7 @@
 # XAI-Vis_CNN
-Progetto di Rita Folisi e Patrizio Palmisano (Convolutional Neural Network)
+Progetto di Rita Folisi e Patrizio Palmisano (Convolutional Neural Network).
+
+
 Le slide sono reperibili nel seguente link: https://docs.google.com/presentation/d/18HmMsEXCSGQspfBGlPrmWU75BSyHE99n5WuWtAV-XBw/edit?usp=sharing
 
 
